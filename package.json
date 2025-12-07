@@ -1,0 +1,24 @@
+{
+  "name": "physical-ai-humanoid-robotics-textbook",
+  "version": "1.0.0",
+  "description": "A web application to serve the 'Teaching Physical AI & Humanoid Robotics' textbook content.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "robotics",
+    "AI",
+    "humanoid",
+    "textbook",
+    "Node.js",
+    "Express",
+    "Markdown"
+  ],
+  "author": "Claude Code",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1",
+    "marked": "^17.0.1"
+  }
+}
